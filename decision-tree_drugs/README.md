@@ -5,9 +5,11 @@ Train a Decision Tree to classify drug category based on patient attributes.
 - Source: `data/drug200 (1).csv` → The dataset used for this analysis.
 - Target: `drug` (categorical)
 ## 🔄 Process (RapidMiner)
-- Import data → handle missing values → encode categoricals
-- Split train/test (e.g., 70/30)
-- **Operator:** Decision Tree with Cross Validation
-- Performance: Accuracy, Precision/Recall, Confusion Matrix
+1. **Read Data** → set correct file path  
+2. **Preprocessing**: handle missing values / encode categoricals (Nominal to Numerical if needed)  
+3. **Split Data**: Train/Test (e.g., 70/30, fixed random seed)  
+4. **Modeling**: `Decision Tree` operator (criterion: gain_ratio / information_gain)  
+5. **Evaluation**: `Apply Model` → `Performance (Classification)`
+
 ### Process
 ![Process](./screenshots/process.png)
