@@ -11,6 +11,12 @@ Train a Decision Tree to classify drug category based on patient attributes.
 4. **Modeling**: `Decision Tree` operator (criterion: gain_ratio / information_gain)  
 5. **Evaluation**: `Apply Model` → `Performance (Classification)`
 
+## 📊 Results
+- **Accuracy:** 100% 
+- **Precision / Recall / F1:** …  
+- **Confusion Matrix:** (see screenshot)  
+- **Important splits / features:** …
+
 ### Process
 ![Process](./screenshots/process.png)
 ### Tree
