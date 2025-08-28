@@ -7,7 +7,7 @@ Cluster customers into segments using **K-Means** and interpret segment profiles
 - Source: `data/OnlineRetail.csv`
 
 ## 🔄 Process
-- Preprocessing (filtering, encoding attributes )
+- Preprocessing (filtering, encoding attributes)
 - Standardization
 - **Operator:** K-Means (k = 3, selection via Elbow/Silhouette)
 - Cluster profiling
