@@ -2,7 +2,7 @@
 ##  🎯 Objective 
 Train a Decision Tree to classify drug category based on patient attributes.
 ##  🗂 Data
-- Source: `data/drug200 (1).csv` → The dataset used for this analysis.
+- Source: `data/drug200 (1).csv`
 - Target: `drug` (categorical)
 ## 🔄 Process (RapidMiner)
 1. **Read Data** → set correct file path  
