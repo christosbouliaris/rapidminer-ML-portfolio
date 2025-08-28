@@ -19,3 +19,5 @@ Model the relationship between features and price/profit.
 ## 🖼 Screenshots
 ### Process
 ![Process](./screenshots/linear_process.png)
+### Results
+![Results](./screenshots/rmse.png)
