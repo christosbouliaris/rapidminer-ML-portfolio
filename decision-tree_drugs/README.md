@@ -13,9 +13,7 @@ Train a Decision Tree to classify drug category based on patient attributes.
 
 ## 📊 Results
 - **Accuracy:** 100% 
-- **Precision / Recall / F1:** …  
-- **Confusion Matrix:** (see screenshot)  
-- **Important splits / features:** …
+- **Precision / Recall / F1:** 100%/100%/100%
 
 ### Process
 ![Process](./screenshots/process.png)
