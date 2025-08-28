@@ -17,3 +17,5 @@ Model the relationship between features and price/profit.
 - RMSE: 9.041 +/- 0.000
 
 ## 🖼 Screenshots
+### Process
+![Process](./screenshots/linear_process.png)
