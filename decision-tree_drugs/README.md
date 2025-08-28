@@ -13,4 +13,5 @@ Train a Decision Tree to classify drug category based on patient attributes.
 
 ### Process
 ![Process](./screenshots/process.png)
-### 
+### Tree
+![Tree](./screenshots/tree.png)
