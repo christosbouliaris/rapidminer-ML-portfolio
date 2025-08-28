@@ -1,4 +1,4 @@
-# RapidMiner ML Portfolio
+# RapidMiner Machine Learning Portfolio
 This repository showcases multiple Machine Learning projects built in **RapidMiner**:
 - **Decision Tree** (Drug classification)
 - **K-Means** (Customer segmentation on Online Retail)
