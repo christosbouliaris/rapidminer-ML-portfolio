@@ -1,9 +1,11 @@
 # Decision Tree - Drug Classification (RapidMiner)
 ##  🎯 Objective 
 Train a Decision Tree to classify drug category based on patient attributes.
+
 ##  🗂 Data
 - Source: `data/drug200 (1).csv`
 - Target: `drug` (categorical)
+
 ## 🔄 Process (RapidMiner)
 1. **Read Data** → set correct file path  
 2. **Preprocessing**: handle missing values / encode categoricals (Nominal to Numerical if needed)  
@@ -14,6 +16,7 @@ Train a Decision Tree to classify drug category based on patient attributes.
 ## 📊 Results
 - **Accuracy:** 100% 
 - **Precision / Recall / F1:** 100%/100%/100%
+
 ## 🖼 Screenshots
 ### Process
 ![Process](./screenshots/process.png)
@@ -21,6 +24,7 @@ Train a Decision Tree to classify drug category based on patient attributes.
 ![Tree](./screenshots/tree.png)
 ### Performance
 ![Performance](./screenshots/performance.png)
+
 ## ▶️ How to Run
 1. Open **RapidMiner Studio**  
 2. `File → Open Process…` → `drugs_decision_tree.rmp`  
