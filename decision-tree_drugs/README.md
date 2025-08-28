@@ -9,4 +9,4 @@ Train a Decision Tree to classify drug category based on patient attributes.
 - Split train/test (e.g., 70/30)
 - **Operator:** Decision Tree with Cross Validation
 - Performance: Accuracy, Precision/Recall, Confusion Matrix
-![Process](decision-tree_drugs/screenshots/drug_decision_tree.png)
+![Process](./screenshots/process.png)
