@@ -21,3 +21,9 @@ Cluster customers into segments using **K-Means** and interpret segment profiles
 ![Process](./screenshots/retail_process.png)
 ### Results
 ![Results](./screenshots/davies_bouldin.png)
+
+## ▶️ How to Run
+1. Open **RapidMiner Studio**  
+2. `File → Open Process…` → `online_retail_k_means.rmp`  
+3. Update dataset path in the `Read CSV/Excel` operator if required  
+4. Run the process and compare metrics with this README
