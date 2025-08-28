@@ -19,3 +19,5 @@ Cluster customers into segments using **K-Means** and interpret segment profiles
 ## 🖼 Screenshots
 ### Process
 ![Process](./screenshots/retail_process.png)
+### Davies Bouldin parametr
+![Davies Boudlind parametr](./screenshots/davies-bouldin.png)
