@@ -17,4 +17,5 @@ Cluster customers into segments using **K-Means** and interpret segment profiles
 - Davies-Bouldin: -0.501
 
 ## 🖼 Screenshots
-
+### Process
+![Process](./screenshots/retail_process.png)
