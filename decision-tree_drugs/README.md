@@ -25,7 +25,7 @@ Train a Decision Tree to classify drug category based on patient attributes.
 ### Performance
 ![Performance](./screenshots/performance.png)
 
-## ▶ How to Run
+##  How to Run
 1. Open **RapidMiner Studio**  
 2. `File → Open Process…` → `drugs_decision_tree.rmp`  
 3. Update dataset path in the `Read CSV/Excel` operator if required  
